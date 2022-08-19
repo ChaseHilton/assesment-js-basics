@@ -64,7 +64,7 @@ let gitAddCode = "git add ."
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-let gitCloneDefinition = "will take a snapshot or save a version of the folder as it currently is"
+let gitCommitDefinition = "will take a snapshot or save a version of the folder as it currently is"
 
 
 //////////////////PROBLEM 8////////////////////
